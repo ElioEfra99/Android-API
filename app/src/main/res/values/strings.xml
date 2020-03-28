@@ -4,4 +4,7 @@
     <string name="add_listview">Agregar listas</string>
     <string name="btn_add">Agregar</string>
     <string name="btn_mov">Mover</string>
+    <string name="btn_guard1">Guardar Lista 1</string>
+    <string name="btn_guard2">Guardar Lista 2</string>
+
 </resources>
